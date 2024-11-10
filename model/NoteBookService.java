@@ -1,5 +1,7 @@
 package model;
 
+import model.comparators.ComparatorByDate;
+
 import java.io.*;
 import java.time.LocalDate;
 import java.time.LocalTime;

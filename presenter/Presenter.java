@@ -1,6 +1,8 @@
 package presenter;
 
 import model.*;
+import model.comparators.ComparatorByTime;
+import model.comparators.ComparatorNotes;
 import view.NoteBookView;
 
 import java.io.IOException;
